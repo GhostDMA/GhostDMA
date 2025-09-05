@@ -1,5 +1,5 @@
 ## Hi there 👋
-Official store is currently ran out of a discord server!
+Join the best discord server!
 https://discord.gg/ghostdma
 <!--
 **GhostDMA/GhostDMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
