@@ -1,6 +1,6 @@
 ## Hi there 👋
 Join the best discord server!
-https://discord.gg/ghostdma
+https://discord.gg/ghostdma or visit the website https://ghostdma.com
 <!--
 **GhostDMA/GhostDMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
